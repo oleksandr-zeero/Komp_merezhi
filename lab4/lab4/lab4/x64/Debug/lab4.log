@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\Politeh\3 KURS\Komp merezhi\lab4\lab4\lab4\Main.cpp(95,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab4.vcxproj -> D:\Politeh\3 KURS\Komp merezhi\lab4\lab4\x64\Debug\lab4.exe
